@@ -8,5 +8,4 @@ text_out = {}
 for video_id in out:
     text_out[video_id] = ' '.join([x.get('text', '') for x in out[video_id]])
 
-
 print(text_out)
