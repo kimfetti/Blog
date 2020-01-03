@@ -5,7 +5,7 @@ Code associated with articles on my blog (kimberlyfessel.com) and the Metis blog
   - [D3 illustration](contra.html) of illness spreading among contra dancers
   
 11 Nov 19 - [How to Gather Data from YouTube](https://www.thisismetis.com/blog/how-to-gather-data-from-youtube)
-  - [Python script](get_text_transcripts.py) for extracting text from youtube-transcript-api results
+  - [Python script](get_text_transcripts.py) for extracting text from `youtube-transcript-api` results
   
 12 Aug 19 - [Simple Ways to Improve your Matplotlib](http://kimberlyfessel.com/visualizations/matplotlib-improvements/)
   - [Jupyter Notebook](matplotlib_improvements.ipynb)
