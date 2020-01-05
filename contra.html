@@ -46,9 +46,9 @@
 
 <script>
 
-    var blushEmoji = "img/emoji_blush.png"
-    var grinEmoji = "img/emoji_grin.png"
-    var sickEmoji = "img/emoji_sick.png"
+    var blushEmoji = "img/emoji_blush.png";
+    var grinEmoji = "img/emoji_grin.png";
+    var sickEmoji = "img/emoji_sick.png";
 
     // Dummy data for contra dancers
     var contraData = [1, 2, 3, 4, 5];
@@ -162,7 +162,7 @@
                     .attr("xlink:href", sickEmoji)
                     .attr("width", 75)
                     .attr("height", 75)
-            })
+            });
 
         // Spread illness to next position
         sickNum++;
@@ -179,14 +179,14 @@
                 else { return blushEmoji; }
             })
             .attr("width", 75)
-            .attr("height", 75)
+            .attr("height", 75);
 
         // Reset bottom row to grin emoji
         d3.select("#grinners")
           .selectAll("image")
             .attr("xlink:href", grinEmoji)
             .attr("width", 70)
-            .attr("height", 70)
+            .attr("height", 70);
 
         // Reset illness spread
         sickNum = 1;
