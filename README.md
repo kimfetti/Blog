@@ -5,7 +5,7 @@ Code associated with my blog posts.
 ----
 
 05 June 20 - [Measuring Statistical Dispersion with the Gini Coefficient](http://kimberlyfessel.com/mathematics/applications/gini-use-cases/)
-  - Jupyter notebook
+  - [Jupyter notebook](gini_coefficient.ipynb)
 
 21 Feb 20 - [Level Up: spaCy for the Win](https://opendatascience.com/level-up-spacy-nlp-for-the-win/)
   - [Jupyter notebook](spacy_intro.ipynb)
