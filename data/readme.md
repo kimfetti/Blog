@@ -1,1 +1,3 @@
-Data required for blog post demos
+# Blog Data
+
+Data for associated blog posts
