@@ -1,3 +1,6 @@
+### Author: Olivia Guest (oliviaguest)
+### Original publication of this code available at https://github.com/oliviaguest/gini/blob/master/gini.py
+
 import numpy as np
 
 def gini(array):
